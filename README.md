@@ -1,3 +1,0 @@
-# ICCV'23-Edge-Deformation-based-Online-Augmentation
-
-1. 2023.8.17 Coming Soon...
